@@ -1,0 +1,17 @@
+commit c1b12a275fa18c64b7117732a4bea858edebea48
+Author: Santiago <sanaljure@gmail.com>
+Date:   Sat Dec 9 16:23:01 2017 -0500
+
+    Agregando guitarras
+
+commit 0ea67ba5001e46b592c1159d076bab31cd00dd9d
+Author: Santiago <sanaljure@gmail.com>
+Date:   Sat Dec 9 16:19:17 2017 -0500
+
+    Agregando el hero y correccion del titulo.
+
+commit fa44c3176c41f0032f9bed1c73b4fa599f07b54c
+Author: Santiago <sanaljure@gmail.com>
+Date:   Sat Dec 9 16:15:29 2017 -0500
+
+    Agregando el header.
